@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Open_Mod_Manager_Repository>
+  <uuid>a6fdce0a-726f-453b-8e8c-e2a8428d38b3</uuid>
+  <title />
+  <downpath>files/</downpath>
+  <references count="0">
+    <mod ident="A-4E-C" file="A-4E-C.ozp" bytes="1041618591" xxhsum="b681b14ebc6c8290" category="Generic" />
+  </references>
+</Open_Mod_Manager_Repository>
